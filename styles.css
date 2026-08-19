@@ -1,0 +1,14 @@
+.lista-lasagna{
+    display:inline-block;
+    background-color: rgb(136, 226, 226);
+    padding: 10px;
+    border:1px;
+    border-color: black;
+    border-style: dashed;
+    margin:10px;
+
+}
+.text-bolognese{
+    display:inline-block;
+    color: seagreen;
+}
